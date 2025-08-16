@@ -1,0 +1,24 @@
+[0.598s] Invoking command in '/home/aryanganesh/dev_ws/src/wall_follower_pkg': PYTHONPATH=/home/aryanganesh/dev_ws/build/wall_follower_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/wall_follower_pkg build --build-base /home/aryanganesh/dev_ws/build/wall_follower_pkg/build install --record /home/aryanganesh/dev_ws/build/wall_follower_pkg/install.log --single-version-externally-managed install_data
+[0.817s] running egg_info
+[0.818s] writing ../../build/wall_follower_pkg/wall_follower_pkg.egg-info/PKG-INFO
+[0.818s] writing dependency_links to ../../build/wall_follower_pkg/wall_follower_pkg.egg-info/dependency_links.txt
+[0.818s] writing entry points to ../../build/wall_follower_pkg/wall_follower_pkg.egg-info/entry_points.txt
+[0.818s] writing requirements to ../../build/wall_follower_pkg/wall_follower_pkg.egg-info/requires.txt
+[0.819s] writing top-level names to ../../build/wall_follower_pkg/wall_follower_pkg.egg-info/top_level.txt
+[0.820s] reading manifest file '../../build/wall_follower_pkg/wall_follower_pkg.egg-info/SOURCES.txt'
+[0.820s] writing manifest file '../../build/wall_follower_pkg/wall_follower_pkg.egg-info/SOURCES.txt'
+[0.821s] running build
+[0.821s] running build_py
+[0.821s] copying wall_follower_pkg/wall_follower_node.py -> /home/aryanganesh/dev_ws/build/wall_follower_pkg/build/lib/wall_follower_pkg
+[0.821s] running install
+[0.821s] running install_lib
+[0.822s] copying /home/aryanganesh/dev_ws/build/wall_follower_pkg/build/lib/wall_follower_pkg/wall_follower_node.py -> /home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/python3.10/site-packages/wall_follower_pkg
+[0.822s] byte-compiling /home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/python3.10/site-packages/wall_follower_pkg/wall_follower_node.py to wall_follower_node.cpython-310.pyc
+[0.823s] running install_data
+[0.824s] running install_egg_info
+[0.832s] removing '/home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/python3.10/site-packages/wall_follower_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.833s] Copying ../../build/wall_follower_pkg/wall_follower_pkg.egg-info to /home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/python3.10/site-packages/wall_follower_pkg-0.0.0-py3.10.egg-info
+[0.833s] running install_scripts
+[0.847s] Installing wall_follower_node script to /home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/wall_follower_pkg
+[0.847s] writing list of installed files to '/home/aryanganesh/dev_ws/build/wall_follower_pkg/install.log'
+[0.880s] Invoked command in '/home/aryanganesh/dev_ws/src/wall_follower_pkg' returned '0': PYTHONPATH=/home/aryanganesh/dev_ws/build/wall_follower_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aryanganesh/dev_ws/install/wall_follower_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/wall_follower_pkg build --build-base /home/aryanganesh/dev_ws/build/wall_follower_pkg/build install --record /home/aryanganesh/dev_ws/build/wall_follower_pkg/install.log --single-version-externally-managed install_data
